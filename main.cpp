@@ -4,6 +4,6 @@
 using namespace std;
 int main(){
     Finder f;
-    vector<int>
+    vector<int> sub
 
 }
